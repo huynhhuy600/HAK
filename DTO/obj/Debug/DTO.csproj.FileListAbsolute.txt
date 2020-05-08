@@ -1,6 +1,5 @@
 C:\Users\huynh\Desktop\HAK\DTO\bin\Debug\DTO.dll
 C:\Users\huynh\Desktop\HAK\DTO\bin\Debug\DTO.pdb
-C:\Users\huynh\Desktop\HAK\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
 C:\Users\huynh\Desktop\HAK\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 C:\Users\huynh\Desktop\HAK\DTO\obj\Debug\DTO.dll
 C:\Users\huynh\Desktop\HAK\DTO\obj\Debug\DTO.pdb

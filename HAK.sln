@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{2F2F44E0-7DE5-49A2-9353-6CF3C00B6970}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HAKtét", "HAKtét\HAKtét.vdproj", "{AC90C9D2-4489-4517-9B06-D68B1405AA0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,8 @@ Global
 		{2F2F44E0-7DE5-49A2-9353-6CF3C00B6970}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F2F44E0-7DE5-49A2-9353-6CF3C00B6970}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F2F44E0-7DE5-49A2-9353-6CF3C00B6970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC90C9D2-4489-4517-9B06-D68B1405AA0D}.Debug|Any CPU.ActiveCfg = Debug
+		{AC90C9D2-4489-4517-9B06-D68B1405AA0D}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
