@@ -1,0 +1,15 @@
+C:\Users\huynh\Desktop\HAK\HAK\bin\Debug\HAK.exe.config
+C:\Users\huynh\Desktop\HAK\HAK\bin\Debug\HAK.exe
+C:\Users\huynh\Desktop\HAK\HAK\bin\Debug\HAK.pdb
+C:\Users\huynh\Desktop\HAK\HAK\obj\Debug\HAK.Properties.Resources.resources
+C:\Users\huynh\Desktop\HAK\HAK\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\huynh\Desktop\HAK\HAK\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\huynh\Desktop\HAK\HAK\obj\Debug\HAK.exe
+C:\Users\huynh\Desktop\HAK\HAK\obj\Debug\HAK.pdb
+C:\Users\huynh\Desktop\HAK\HAK\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\huynh\Desktop\HAK\HAK\obj\Debug\HAK.frmMain.resources
+C:\Users\huynh\Desktop\HAK\HAK\bin\Debug\BUS.dll
+C:\Users\huynh\Desktop\HAK\HAK\bin\Debug\DTO.dll
+C:\Users\huynh\Desktop\HAK\HAK\bin\Debug\BUS.pdb
+C:\Users\huynh\Desktop\HAK\HAK\bin\Debug\DTO.pdb
+C:\Users\huynh\Desktop\HAK\HAK\obj\Debug\PresentationLayer.csproj.CopyComplete
