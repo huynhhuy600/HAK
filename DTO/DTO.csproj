@@ -42,7 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CPKD_DTO.cs" />
+    <Compile Include="KDV_DTO.cs" />
+    <Compile Include="ND_DTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PTKD_DTO.cs" />
+    <Compile Include="TEM_DTO.cs" />
+    <Compile Include="TK_DTO.cs" />
     <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
