@@ -5,7 +5,30 @@
         private int id;
         private string tenKDV;
 
-        public int Id { get => id; set => id = value; }
-        public string TenKDV { get => tenKDV; set => tenKDV = value; }
+        public int Id
+        {
+            get
+            {
+                return id;
+            }
+
+            set
+            {
+                id = value;
+            }
+        }
+
+        public string TenKDV
+        {
+            get
+            {
+                return tenKDV;
+            }
+
+            set
+            {
+                tenKDV = value;
+            }
+        }
     }
 }

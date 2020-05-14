@@ -9,3 +9,12 @@ C:\Users\huynh\Desktop\HAK\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
 C:\Users\huynh\Desktop\HAK\BUS\obj\Debug\BUS.csproj.CopyComplete
 C:\Users\huynh\Desktop\HAK\BUS\obj\Debug\BUS.dll
 C:\Users\huynh\Desktop\HAK\BUS\obj\Debug\BUS.pdb
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\BUS\bin\Debug\BUS.dll
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\BUS\bin\Debug\BUS.pdb
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\BUS\bin\Debug\DAO.dll
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\BUS\bin\Debug\DTO.dll
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\BUS\bin\Debug\DAO.pdb
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\BUS\bin\Debug\DTO.pdb
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\BUS\obj\Debug\BUS.dll
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\BUS\obj\Debug\BUS.pdb

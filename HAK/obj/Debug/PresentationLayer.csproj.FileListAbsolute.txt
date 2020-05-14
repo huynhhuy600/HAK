@@ -13,3 +13,16 @@ C:\Users\huynh\Desktop\HAK\HAK\obj\Debug\PresentationLayer.csproj.CoreCompileInp
 C:\Users\huynh\Desktop\HAK\HAK\obj\Debug\PresentationLayer.csproj.CopyComplete
 C:\Users\huynh\Desktop\HAK\HAK\obj\Debug\HAK.exe
 C:\Users\huynh\Desktop\HAK\HAK\obj\Debug\HAK.pdb
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\HAK\bin\Debug\HAK.exe.config
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\HAK\obj\Debug\HAK.exe
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\HAK\obj\Debug\HAK.pdb
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\HAK\bin\Debug\HAK.exe
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\HAK\bin\Debug\HAK.pdb
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\HAK\bin\Debug\BUS.dll
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\HAK\bin\Debug\DTO.dll
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\HAK\bin\Debug\BUS.pdb
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\HAK\bin\Debug\DTO.pdb
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\HAK\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\HAK\obj\Debug\HAK.frmMain.resources
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\HAK\obj\Debug\HAK.Properties.Resources.resources
+C:\Users\bienv\OneDrive\Documents\GitHub\SQL Sever\Spatial\HAK\HAK\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache

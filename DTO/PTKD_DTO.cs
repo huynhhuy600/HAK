@@ -9,11 +9,82 @@
         private float phamvido;
         private float SSCP;
 
-        public int So { get => so; set => so = value; }
-        public string Tenphuongtien { get => tenphuongtien; set => tenphuongtien = value; }
-        public string Namsanxuat { get => namsanxuat; set => namsanxuat = value; }
-        public string Nuocsx { get => nuocsx; set => nuocsx = value; }
-        public float Phamvido { get => phamvido; set => phamvido = value; }
-        public float SSCP1 { get => SSCP; set => SSCP = value; }
+        public int So
+        {
+            get
+            {
+                return so;
+            }
+
+            set
+            {
+                so = value;
+            }
+        }
+
+        public string Tenphuongtien
+        {
+            get
+            {
+                return tenphuongtien;
+            }
+
+            set
+            {
+                tenphuongtien = value;
+            }
+        }
+
+        public string Namsanxuat
+        {
+            get
+            {
+                return namsanxuat;
+            }
+
+            set
+            {
+                namsanxuat = value;
+            }
+        }
+
+        public string Nuocsx
+        {
+            get
+            {
+                return nuocsx;
+            }
+
+            set
+            {
+                nuocsx = value;
+            }
+        }
+
+        public float Phamvido
+        {
+            get
+            {
+                return phamvido;
+            }
+
+            set
+            {
+                phamvido = value;
+            }
+        }
+
+        public float SSCP1
+        {
+            get
+            {
+                return SSCP;
+            }
+
+            set
+            {
+                SSCP = value;
+            }
+        }
     }
 }
